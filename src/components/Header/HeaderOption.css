@@ -1,0 +1,17 @@
+.headerOption {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    color: gray;
+    cursor: pointer;
+}
+
+.headerOption:hover {
+    color: black;
+}
+
+.headerOption__carat {
+    object-fit: contain !important;
+    height: 20px !important;
+}
