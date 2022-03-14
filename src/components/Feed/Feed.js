@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react'
+import React, { useState} from 'react'
 import './Feed.css'
 import data from './FeedData';
 import CreateIcon from '@mui/icons-material/Create';
